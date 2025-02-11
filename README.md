@@ -41,14 +41,14 @@ A disciplina Linguagem de Programação III aprofunda os conhecimentos sobre té
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
-- [Algoritmo do Banqueiro]()
-- [Função de Primeira Ordem]()
-- [Função Pura e Impura]()
-- [Jantar dos Filosofos]()
-- [Locks]()
-- [Paradigmas de Programação]()
-- [Recursividade]()
-- [Threads]()
+- [Algoritmo do Banqueiro](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Algoritmo%20do%20Banqueiro/src/Exercicio1)
+- [Função de Primeira Ordem](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Funcao%20de%20Primeira%20Ordem/src)
+- [Função Pura e Impura](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Funcao%20Pura%20e%20Impura/src)
+- [Jantar dos Filosofos](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Jantar%20dos%20Filosofos/src/Exercicio1)
+- [Locks](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Locks/Exercicios%20feitos%20em%20Aula%20(06.03)%20-%20Locks/src)
+- [Paradigmas de Programação](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Paradigmas%20de%20Programacao/src)
+- [Recursividade](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Recursividade/src)
+- [Threads](https://github.com/Karimangfn/Linguagem-de-Programacao-III-IFSP/tree/main/Atividades/Threads/src)
 </p>
 
 ## ▶️ Como Executar os Códigos Java
